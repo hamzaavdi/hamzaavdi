@@ -1,4 +1,4 @@
-### Electronics Engineer 
+### Hi, I am a chip design enthusiast 👋
 
 <!--
 **hamzaavdi/hamzaavdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
